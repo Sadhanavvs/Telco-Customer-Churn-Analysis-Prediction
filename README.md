@@ -111,10 +111,6 @@ Customer churn is a critical business problem. By identifying at-risk customers,
 
 ---
 
-Dataset : 
-
----
-
 ## 📌 How to Run
 
 ```bash
