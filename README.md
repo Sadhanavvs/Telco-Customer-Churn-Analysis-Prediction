@@ -111,9 +111,7 @@ Customer churn is a critical business problem. By identifying at-risk customers,
 
 ---
 
-## 💼 Resume Highlight
-
-Built an end-to-end customer churn prediction model using Python and machine learning, achieving ~72% accuracy and identifying key churn drivers to support business decision-making.
+Dataset : 
 
 ---
 
